@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+body {
+    background-color: rgb(153, 87, 120) ;
+}
+
+main{
+    background-color: floralwhite;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    box-shadow: darkgrey;
+}
+
+img.lado {
+    float: right ;
+}
